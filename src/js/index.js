@@ -41,7 +41,7 @@ personagens.forEach((personagem) => {
     })
 })
 function alterarDescricaoDoPersonagem(personagem) {
-    const descricaoPersonagem = document.getElementById(descricao - personagem);
+    const descricaoPersonagem = document.getElementById('descricao-personagem');
     descricaoPersonagem.innerText = personagem.getAttribute('data-description');
 }
 
