@@ -27,5 +27,5 @@ Esse Projeto foi desenvolvido com as seguintes tecnologias:
 O Projeto X-men foi baseado nas telas de seleção de personagens iguais aos dos jogos de video games.
 
 ## 🧠 Experiência Adquirida
-Esse foi um dos primeiros projetos que criei tendo a mentoria do @devemdobro. Foi um dos meus primeiros contatos reais com programação e fez com que eu percebesse o tamanho da gama de aprendizado que podemos adquirir dentro do mundo da tecnologia. Me motivou a buscar a aprender cada vez mais sobre programação e tecnologia em geral, buscando conhecer mais tecnologias e aprimorando o que eu havia começado a conhecer através desses projetos e migrar de vez para a área tecnológica.
+Esse foi um dos primeiros projetos que criei tendo a mentoria do @devemdobro. Foi um dos meus primeiros contatos reais com programação e fez com que eu percebesse o tamanho da gama de aprendizado que podemos adquirir dentro do mundo da tecnologia. Me motivou a buscar a aprender cada vez mais sobre programação e tecnologia em geral, buscando conhecer mais tecnologias e aprimorando o que eu havia começado a conhecer através desse projeto e migrar de vez para a área tecnológica.
 
